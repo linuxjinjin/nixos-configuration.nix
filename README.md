@@ -1,3 +1,3 @@
-# -nixos-configuration.nix
-22.05
+# nixos-configuration.nix
+nixos 
 Chinese localization configuration
